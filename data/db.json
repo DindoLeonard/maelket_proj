@@ -1,0 +1,22 @@
+{
+  "phones": [
+    {
+      "id": "8f4f",
+      "phoneNumber": "09269972306",
+      "name": "Maelket Vivas",
+      "sendTo": [
+        "911",
+        "2705"
+      ]
+    },
+    {
+      "id": "7159",
+      "phoneNumber": "09454970525",
+      "name": "Dindo",
+      "sendTo": [
+        "000",
+        "111"
+      ]
+    }
+  ]
+}
